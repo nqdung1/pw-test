@@ -229,4 +229,5 @@ return [
 
     ],
 
+    'partner' => env('PARTNER', 'Polk'),
 ];
